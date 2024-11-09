@@ -1,2 +1,3 @@
-ubuntu:22.04
+php-apache-nodejs:latest
+
 
