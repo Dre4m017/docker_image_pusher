@@ -1,1 +1,1 @@
-fabiojanio/php-apache-nodejs:latest
+node:16
