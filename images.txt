@@ -1,1 +1,1 @@
-node:latest
+vultarget/vulbase:0.3
