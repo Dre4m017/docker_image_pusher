@@ -1,1 +1,1 @@
-php:5.5-fpm-alpine
+node:18-slim
