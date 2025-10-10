@@ -1,1 +1,1 @@
-node:18-slim
+node:20-bullseye-slim
