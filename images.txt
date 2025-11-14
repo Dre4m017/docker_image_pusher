@@ -1,1 +1,1 @@
-vulnerables/web-dvwa
+citizenstig/dvwa
